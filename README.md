@@ -5,7 +5,7 @@ This is a simple developer portfolio website template created using HTML and CSS
 
 ## Preview
 
-![Developer Portfolio Preview](preview.png)
+![Developer Portfolio Preview](./assets/images/avatar.png)
 
 ## Features
 
